@@ -12,6 +12,7 @@ O cálculo da NPS é dado da seguinte forma:
 * Notas 9 e 10 **boas**;
 
 total = boas + neutras + ruins
+<br>
 NPS = (boas)/(total)-(ruins)/(total)
 
 ## Arquivos Iniciais
